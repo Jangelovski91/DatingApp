@@ -29,7 +29,6 @@
               "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "./node_modules/font-awesome/css/font-awesome.min.css",
               "src/styles.css"
-
             ],
             "scripts": []
           },
@@ -61,7 +60,7 @@
           "defaultConfiguration": "production"
         },
         "serve": {
-          "options":{
+          "options": {
             "ssl": true,
             "sslCert": "./ssl/localhost.pem",
             "sslKey": "./ssl/localhost-key.pem"
